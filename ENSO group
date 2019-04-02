@@ -96,7 +96,7 @@ for p = 1:621
   end 
 end
 
-%%
+%%After this part ANOVA is calculated fpr 621*1405 grids
 g = NaN(621,1405);
 group(1:13,1) = {'elnino'}
 group(14:27,1) = {'lanino'}
